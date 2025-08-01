@@ -48,8 +48,3 @@ This is not just a project, but a personal learning milestone. I plan to eventua
 
 ---
 
-## How to Run
-
-```bash
-g++ main.cpp -o cube.exe
-cube.exe
