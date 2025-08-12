@@ -32,6 +32,8 @@ This is not just a project, but a personal learning milestone. I plan to eventua
 
 ![Rotating Cube GIF](media/preview.gif) <!-- Replace this path with your actual gif path -->
 
+![Rotating Aircraft GIF](media/preview2.gif)
+
 ---
 
 ## Credits
