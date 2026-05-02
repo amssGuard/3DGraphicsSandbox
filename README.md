@@ -1,5 +1,5 @@
 # 3DGraphicsSandbox
-# Rotating 3D Cube in Console (Using `olcConsoleGameEngine`)
+# (Using `olcConsoleGameEngine`)
 
 This is my first step into the world of **3D graphics programming**, implemented using C++ and the `olcConsoleGameEngine.h` by [Javidx9](https://github.com/OneLoneCoder).
 
